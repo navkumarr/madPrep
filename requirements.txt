@@ -1,0 +1,8 @@
+streamlit
+moviepy
+whisper
+google-generativeai
+python-dotenv
+opencv-python
+pandas
+deepface
