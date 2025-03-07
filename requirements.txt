@@ -5,4 +5,5 @@ google-generativeai
 python-dotenv
 opencv-python-headless
 pandas
+tf-keras
 deepface
