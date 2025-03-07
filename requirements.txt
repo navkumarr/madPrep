@@ -1,4 +1,5 @@
-streamlit 
+streamlit
+ffmpeg-python
 moviepy==1.0.3
 git+https://github.com/openai/whisper.git 
 google-generativeai
