@@ -3,6 +3,6 @@ moviepy==1.0.3
 whisper
 google-generativeai
 python-dotenv
-opencv-python
+opencv-python-headless
 pandas
 deepface
