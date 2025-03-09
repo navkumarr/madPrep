@@ -1,4 +1,4 @@
-# madPrep: AI-Powered Interview Performance Analyzer 🔍
+# [madPrep: AI-Powered Interview Performance Analyzer]([url](https://madprep.streamlit.app/)) 🔍
 
 madPrep is a Streamlit-based application that helps users improve their interview performance using AI-driven insights. It analyzes your video recordings to provide:
 1. **Real-time audio transcription** (using [OpenAI's Whisper model](https://github.com/openai/whisper)),
